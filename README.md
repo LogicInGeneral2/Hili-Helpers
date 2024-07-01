@@ -1,16 +1,28 @@
-# hili_helpers
+<p align="center">
+  <img src="https://github.com/LogicInGeneral2/Hili-Helpers/blob/main/lib/images/Logo.png" alt="Sublime's custom image" width="150" height="150"/>
+</p>
 
-A new Flutter project.
 
-## Getting Started
+# Hili Helpers
 
-This project is a starting point for a Flutter application.
+A project that aims to connect communities, between local businesses and their potential customers. 
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+As a user:
+1. Browse promotions
+2. Browse services
+3. Order services
+4. Monitor services status
+5. Rate services
+6. Register as a Helper
+7. Edit account
+8. Delete account
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As a Helper:
+1. Create a service
+2. Turn on and off services
+3. View analytics on services
+4. Add, edit and delete menu
+5. Enable and disable menu
+
